@@ -18,6 +18,14 @@ http://www.nuro.jp/speedup/speedupStep1.html
 flets 
 https://flets.com/customer/tec/square/speed/speed1.html
 
+---
+websocket
+https://websocketstest.com/
+
+ip address IPv6
+https://v6.asahi-net.jp/
+
+
 ```
 ```
 
