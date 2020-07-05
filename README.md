@@ -1,3 +1,8 @@
+### speet_test cpu
+---
+http://m.hg2.ifdef.jp/cpusokutei/
+
+
 ### speet_test
 ---
 fast
